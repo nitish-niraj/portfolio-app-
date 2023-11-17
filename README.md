@@ -16,7 +16,7 @@ This portfolio app is designed using Flutter, showcasing a user's profile, an ab
 
 ## Installation
 
-1. **Clone Repository**: Clone this repository to your local machine using `[https://github.com/nitish-niraj/portfolio-app-.git](https://github.com/nitish-niraj/portfolio-app-.git)`
+1. **Clone Repository**: Clone this repository to your local machine using `[https://github.com/nitish-niraj/portfolio-app-.git]`
 2. **Run Application**: Use Flutter commands to run the application on a simulator or a physical device.
 
 ```bash
